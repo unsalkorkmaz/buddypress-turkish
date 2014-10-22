@@ -18,34 +18,24 @@ buddypress-turkish
 
 Çeviri esnasında kullandığım, yaklaşıma göre farklı gelebilecek, bazı çeviriler:
 
-<code>Blog</code> = <code>Site</code>
-<code>User</code> = <code>Kullanıcı</code>
-<code>Member</code> = <code>Üye</code>
-
-<code>Activity</code> = <code>Aktivite</code>
-<code>Stream</code> = <code>Akış</code>
-<code>Item</code> = <code>Öğe</code>
-
-<code>Spam</code> = <code>İstenmeyen</code>
-<code>Spammer</code> = <code>İstenmeyen gönderim yapan</code>
-
-<code>Mention</code> = <code>Bahsetmek</code>
-<code>Mentions</code> = <code>Bahsedilmeler<code>
-
-<code>Favorite</code> = <code>Beğen</code>
-<code>Favorites</code> = <code>Beğenilenler</code>
-
-<code>Moderator</code> = <code>Denetleyici</code>
-<code>Moderating</code> = <code>Denetim</code>
-
-<code>promoted</code> = <code>terfi edilmek</code>
-
-<code>Requests = İstekler</code>
-
-<code>Avatar</code> = <code>Profil Resmi</code>
-<code>crop</code> = <code>kırpma</code>
-
-<code>Invites</code> = <code>Davetiye</code>
-<code>invite</code> = <code>Davet etmek</code>
-
+<code>Blog</code> = <code>Site</code><br />
+<code>User</code> = <code>Kullanıcı</code><br />
+<code>Member</code> = <code>Üye</code><br />
+<code>Activity</code> = <code>Aktivite</code><br />
+<code>Stream</code> = <code>Akış</code><br />
+<code>Item</code> = <code>Öğe</code><br />
+<code>Spam</code> = <code>İstenmeyen</code><br />
+<code>Spammer</code> = <code>İstenmeyen gönderim yapan</code><br />
+<code>Mention</code> = <code>Bahsetmek</code><br />
+<code>Mentions</code> = <code>Bahsedilmeler<code><br />
+<code>Favorite</code> = <code>Beğen</code><br />
+<code>Favorites</code> = <code>Beğenilenler</code><br />
+<code>Moderator</code> = <code>Denetleyici</code><br />
+<code>Moderating</code> = <code>Denetim</code><br />
+<code>promoted</code> = <code>terfi edilmek</code><br />
+<code>Requests = İstekler</code><br />
+<code>Avatar</code> = <code>Profil Resmi</code><br />
+<code>crop</code> = <code>kırpma</code><br />
+<code>Invites</code> = <code>Davetiye</code><br />
+<code>invite</code> = <code>Davet etmek</code><br />
 <code>Action</code> = <code>İşlem</code>
