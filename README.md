@@ -1,11 +1,11 @@
 buddypress-turkish
 ==================
 
-[EN] Turkish Translation of BuddyPress
+[EN] Turkish Translation of BuddyPress 2.1.1
 
 <hr />
 
-[TR] BuddyPress'in Türkçe Çevirisi
+[TR] BuddyPress 2.1.1'in Türkçe Çevirisi
 
 <a href="https://translate.wordpress.org/projects/buddypress/dev/tr/default">WordPress translate</a> kısmındaki varolan yarım çeviriyi alıp tamamladım. Varolan çevirilerdeki bazı yanlış ve çeviri farklılıklarını düzelttim. 
 <b>Dikkat:</b> Eski çevirilerin bir kısmına bakma şansım olmadı. Bu yüzden bazı yanlışlar hala duruyor olabilir. Vaktiniz varsa gözden geçirmenizi rica ederim.
