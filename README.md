@@ -27,7 +27,7 @@ buddypress-turkish
 <code>Spam</code> = <code>İstenmeyen</code><br />
 <code>Spammer</code> = <code>İstenmeyen gönderim yapan</code><br />
 <code>Mention</code> = <code>Bahsetmek</code><br />
-<code>Mentions</code> = <code>Bahsedilmeler<code><br />
+<code>Mentions</code> = <code>Bahsedilmeler</code><br />
 <code>Favorite</code> = <code>Beğen</code><br />
 <code>Favorites</code> = <code>Beğenilenler</code><br />
 <code>Moderator</code> = <code>Denetleyici</code><br />
